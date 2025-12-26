@@ -1,4 +1,3 @@
-# Context-is-Key
 # Context Is Key
 ### Implementing *Context Is Key: Leveraging Contextual Information for Time Series Forecasting with LLMs*
 
